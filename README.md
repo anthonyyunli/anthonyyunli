@@ -11,6 +11,4 @@ Outside of code I do [competitive programming](https://github.com/anthonyyunli/c
 
 Languages I use most: C++, Python, Lua, Java, JS, C#.
 
-Comp programming: UAPC 2025 Div 2, CCC Senior 2025 Distinction, CCC Junior 2022/2023 Distinction.
-
-Into efficient ML, computer vision, algorithms, and generally making projects way more complicated than they need to be.
+Comp programming: UAPC 2025 Div 2, CCC Senior 2025 Distinction, CCC Junior 2022/2023 Distinction
