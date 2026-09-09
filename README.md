@@ -2,8 +2,8 @@
 CS student at UofT, mostly into ML, algorithms, and building stuff from scratch to see how it actually works.
 
 Some stuff I've built:
-- [CanSat](https://github.com/CantSatTeam/CanSat-MHE) — did the model pipeline, including occasionally SSH'ing into a friend's PC for GPU access (budget cloud computing lol)
-- [Mayhem](https://github.com/Roblox-MAYHEM/Game) — a Roblox FPS party game with weird weapons and abilities
+- [CanSat](https://github.com/CantSatTeam/CanSat-MHE): did the model pipeline and flight code, including occasionally SSH'ing into a friend's PC for GPU access (budget cloud computing lol)
+- [Mayhem](https://github.com/Roblox-MAYHEM/Game): a Roblox FPS party game with weird weapons and abilities
 - A small language model from scratch, to understand how transformers actually work under the hood
 - Right now I'm building a lightweight AI text detector meant to run on low-compute devices
 
