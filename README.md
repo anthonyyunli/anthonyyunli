@@ -9,7 +9,7 @@ Some stuff I've built:
 
 Outside of code I do [competitive programming](https://github.com/anthonyyunli/competitive-programming), lift, running, and occasionally talk myself into a 100km "breezy" bike ride.
 
-Languages I use most: C++, JS, Lua, Java, C#, Python.
+Languages I use most: C++, Python, Lua, Java, JS, C#.
 
 Comp programming: UAPC 2025 Div 2, CCC Senior 2025 Distinction, CCC Junior 2022/2023 Distinction.
 
