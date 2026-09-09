@@ -7,7 +7,7 @@ Some stuff I've built:
 - A small language model from scratch, to understand how transformers actually work under the hood
 - Right now I'm building a lightweight AI text detector meant to run on low-compute devices
 
-Outside of code I do [competitive programming](https://github.com/anthonyyunli/competitive-programming), run, lift, and occasionally talk myself into a 100km "breezy" bike ride.
+Outside of code I do [competitive programming](https://github.com/anthonyyunli/competitive-programming), lift, running, and occasionally talk myself into a 100km "breezy" bike ride.
 
 Languages I use most: C++, JS, Lua, Java, C#, Python.
 
